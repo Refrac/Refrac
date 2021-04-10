@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zach aka Refrac
 
-![](https://github-readme-stats.vercel.app/api?username=Refrac&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=refrac&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
 How to reach me
 
