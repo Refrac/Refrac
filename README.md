@@ -8,6 +8,8 @@ How to reach me
 - SpigotMC: https://www.spigotmc.org/members/refrac.890273/
 - My discord server: [Click to join](https://discord.gg/mUKjWZByzQ)
 
+##### NOTE: Do not try to DM advertise me any discord's/minecraft server's you will be removed imediatelly.
+
 Projects of mine:
 
 - Links
