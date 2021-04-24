@@ -15,7 +15,7 @@ Projects of mine:
 
 Currently working on:
 
-- Links - My plugin
-- SimpleCosmetics - My plugin
+- Links
+- SimpleCosmetics
 - StaffModeGUI2 - BGHDDevelopment
 - PunishGUI - BGHDDevelopment
