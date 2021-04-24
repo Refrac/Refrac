@@ -13,9 +13,11 @@ How to reach me
 Projects of mine:
 
 - Links
+- SimpleCosmetics
 
 Currently working on:
 
 - Links - My plugin
+- SimpleCosmetics - My plugin
 - StaffModeGUI2 - BGHDDevelopment
 - PunishGUI - BGHDDevelopment
