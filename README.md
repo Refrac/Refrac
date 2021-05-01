@@ -12,10 +12,14 @@ Projects of mine:
 
 - Links
 - SimpleCosmetics
+- SimpleStaffChat
+- BungeeStaffChat
 
 Currently working on:
 
 - Links
 - SimpleCosmetics
+- SimpleStaffChat
+- BungeeStaffChat
 - StaffModeGUI2 - BGHDDevelopment
 - PunishGUI - BGHDDevelopment
