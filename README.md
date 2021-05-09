@@ -21,5 +21,3 @@ Currently working on:
 - SimpleCosmetics
 - SimpleStaffChat
 - BungeeStaffChat
-- StaffModeGUI2 - BGHDDevelopment
-- PunishGUI - BGHDDevelopment
