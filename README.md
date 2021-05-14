@@ -21,3 +21,4 @@ Currently working on:
 - SimpleCosmetics
 - SimpleStaffChat
 - BungeeStaffChat
+and many more!
