@@ -13,13 +13,11 @@ Projects of mine:
 - Links
 - SimpleCosmetics
 - SimpleStaffChat
-- BungeeStaffChat
 
 Currently working on:
 
 - Links
 - SimpleCosmetics
 - SimpleStaffChat
-- BungeeStaffChat
 
 and many more!
