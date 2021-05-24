@@ -13,10 +13,12 @@ Projects of mine:
 - Links
 - SimpleCosmetics
 - SimpleStaffChat
+- SimpleAnnounce
 
 Currently working on:
 
 - Links
 - SimpleStaffChat
+- SimpleAnnounce
 
 and many more!
