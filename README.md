@@ -17,8 +17,6 @@ Projects of mine:
 
 Currently working on:
 
-- Links
-- SimpleCosmetics
 - SimpleStaffChat
 - SimpleAnnounce
 
