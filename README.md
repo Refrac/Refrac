@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Zach aka Refrac
 
-![Stats](https://github-readme-stats.vercel.app/api?username=refrac&show_icons=true&count_private=true&hide_border=true&theme=dark)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/275139023394177024)](https://discord.com/users/275139023394177024)
-
 How to reach me
 
 - Discord: Zach.#6436 [ID: 275139023394177024]
@@ -23,3 +19,7 @@ Currently working on:
 - SimpleAnnounce
 
 and many more!
+
+![Stats](https://github-readme-stats.vercel.app/api?username=refrac&show_icons=true&count_private=true&hide_border=true&theme=dark)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/275139023394177024)](https://discord.com/users/275139023394177024)
