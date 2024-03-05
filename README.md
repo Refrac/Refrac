@@ -2,7 +2,7 @@
 
 [Discord](https://discord.gg/EFeSKPg739) [SpigotMC](https://www.spigotmc.org/members/refrac.890273/)
 
-Hey there, my name is Zach and i'm a minecraft java plugin developer i make plugins over at [RefracDevelopment](https://github.com/RefracDevelopment). I also help with support and updating some of [BGHDDevelopment's](https://github.com/BGHDDevelopment) plugins from time to time.
+Hey there, my name is Zach and i'm a Java/C# Developer i make minecraft plugins over at [RefracDevelopment](https://github.com/RefracDevelopment). I also help with support and updating some of [BGHDDevelopment's](https://github.com/BGHDDevelopment) plugins from time to time.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/275139023394177024)](https://discord.com/users/275139023394177024)
 
