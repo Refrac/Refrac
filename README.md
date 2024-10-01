@@ -8,4 +8,4 @@ Hey there, my name is Zach and i'm a C#/Java Programmer i make minecraft plugins
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Refrac)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Refrac&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Refrac)](https://github.com/anuraghazra/github-readme-stats)
