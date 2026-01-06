@@ -6,4 +6,6 @@ Hey there, my name is Zach and i'm a C#/Java Programmer i make minecraft plugins
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/275139023394177024)](https://discord.com/users/275139023394177024)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Refrac&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Refrac&limit=6&sort=contributions&exclude=repo1,repo2,owner/repo3)](https://github.com/amankumarconnect/readme-contribution-stats)
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Refrac)](https://github.com/pranesh-2005/github-readme-stats-fast)
