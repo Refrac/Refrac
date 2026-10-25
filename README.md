@@ -8,4 +8,4 @@ Current Projects:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/275139023394177024)](https://discord.com/users/275139023394177024)
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Refrac)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Refrac&include_all_commits=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
